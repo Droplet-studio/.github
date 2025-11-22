@@ -1,12 +1,10 @@
-## Hi there 👋
+# Droplet AI
 
-<!--
+**The world’s first AI company built to cut your costs and protect your data.**
 
-**Here are some ideas to get you started:**
+Droplet delivers a new class of practical, privacy-preserving AI pipelines.  
+We combine the reasoning power of frontier LLMs with the deployability of compact, self-hosted models—giving enterprises the accuracy they want without the operational expense they fear.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our platform converts specialised domain requirements into efficient small-model solutions, enabling you to run secure, tailored AI systems entirely on your own infrastructure.  
+
+More coming soon.
